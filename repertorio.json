@@ -1,0 +1,26 @@
+[
+    {
+        "id": "2",
+        "titulo": "Harvest Moon",
+        "artista": "Neil Young",
+        "tono": "Am"
+    },
+    {
+        "id": "3",
+        "titulo": "What's In My Head",
+        "artista": "Fuzz",
+        "tono": "Cm"
+    },
+    {
+        "id": 8307,
+        "titulo": "Call Me",
+        "artista": "Blondie",
+        "tono": "Bbm"
+    },
+    {
+        "id": 8999,
+        "titulo": "Señor Noche",
+        "artista": "Pequeños Antares",
+        "tono": "Fm"
+    }
+]
